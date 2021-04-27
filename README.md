@@ -1,7 +1,7 @@
 # Proyecto03
 
 ## Opcion 2: Procesamiento de Lenguaje Natural
-El proyecto consiste en generar un modelo que permita predecir la valoracion (medida de 1 a 5 estrellas), sienod entrenados en base a las valoraciones dadas a distintos productos comprados por medio de Amazon.
+El proyecto consiste en generar un modelo que permita predecir la valoracion (medida de 1 a 5 estrellas) de la experiencia de compra de un usuario en base a reviews realizadas sobre el mismo producto por otros compradores.
 
 ## Organizacion:
 El proyecto consiste de dos notebooks de Jupyter y un archivo .zip:
