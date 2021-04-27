@@ -1,5 +1,6 @@
 # Proyecto03
-## Aplicaciones actuales.
+
+## Opcion 2: Procesamiento de Lenguaje Natural
 El proyecto consiste en generar un modelo que permita predecir la valoracion (medida de 1 a 5 estrellas), sienod entrenados en base a las valoraciones dadas a distintos productos comprados por medio de Amazon.
 
 ## Organizacion:
